@@ -7,7 +7,7 @@
 
 ## Installation
 ### Download latest executable (Windows only)
-Get the latest release [here](https://github.com/EricMarcantonio/EECS3481-Project/releases)
+Get the latest release [here](https://github.com/ReubenMathew/MERKware/releases)
 ### Requirements
 - Python 3.7+
 - Conda Environment
@@ -20,7 +20,7 @@ Get the latest release [here](https://github.com/EricMarcantonio/EECS3481-Projec
 3. Navigate to newly generated `/dist` to find `MERK.exe `
 
 ## Usage
-See [USAGE.md](https://github.com/EricMarcantonio/EECS3481-Project/blob/master/USAGE.md) for more detailed documentation
+See [USAGE.md](https://github.com/ReubenMathew/MERKware/blob/master/USAGE.md) for more detailed documentation
 ### Command-line Flags
 - ```--folder``` `-f` The folder that will be encrypted
 - ```--type``` `-t` algorithm type selection 
